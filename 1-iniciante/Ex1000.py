@@ -1,0 +1,2 @@
+# Saída
+print('Hello Word!')
