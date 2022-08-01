@@ -1,2 +1,0 @@
-# Saída
-print('Hello Word!')
