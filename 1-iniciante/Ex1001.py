@@ -1,4 +1,4 @@
-# Entrada
+#  Entrada
 a = int(input())
 b = int(input())
 
